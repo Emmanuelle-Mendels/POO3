@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39727796-b02c-47f7-a46d-79dee24eeb97" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1a5EgLJVgGaY6qS3usXxTodOcDi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../atelier POO1" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39727796-b02c-47f7-a46d-79dee24eeb97" name="Default Changelist" comment="" />
+      <created>1586017164158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586017164158</updated>
+      <workItem from="1586017165923" duration="5174000" />
+      <workItem from="1586103255675" duration="166000" />
+      <workItem from="1586103432079" duration="4614000" />
+      <workItem from="1586151145287" duration="2476000" />
+      <workItem from="1586154641318" duration="7000" />
+      <workItem from="1586159127515" duration="4072000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="676" y="289" width="624" height="526" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586151110215">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="676" y="289" width="624" height="526" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1586151110215" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586162303351">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1586162303351" />
+    <state x="752" y="366" width="473" height="373" key="NewPhpClassDialog" timestamp="1586103319634">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="752" y="366" width="473" height="373" key="NewPhpClassDialog/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1586103319634" />
+    <state x="657" y="253" width="672" height="677" key="run.anything.popup" timestamp="1586019027073">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="253" width="672" height="677" key="run.anything.popup/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1586019027073" />
+  </component>
+</project>
