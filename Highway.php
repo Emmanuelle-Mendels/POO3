@@ -14,9 +14,9 @@ abstract class Highway
      * @var int
      */
     protected $maxSpeed;
-     /**
-      * @return array
-      */
+    /**
+     * @return array
+     */
     public function getCurrentVehicles(): array
     {
         return $this->currentVehicles;
@@ -43,7 +43,7 @@ abstract class Highway
     /**
      * @param int $nbLane
      */
-    public function setNbLane(int $nbLane): int
+    public function setNbLane(int $nbLane): void
     {
         $this->nbLane = $nbLane;
     }
@@ -72,4 +72,3 @@ abstract class Highway
 
     abstract public function addVehicle($vehicle): void;
 }
-
