@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39727796-b02c-47f7-a46d-79dee24eeb97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LightableInterface.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Car .php" beforeDir="false" afterPath="$PROJECT_DIR$/Car .php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Highway.php" beforeDir="false" afterPath="$PROJECT_DIR$/Highway.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bicycle.php" beforeDir="false" afterPath="$PROJECT_DIR$/Bicycle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Car .php" beforeDir="false" afterPath="$PROJECT_DIR$/Car.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,9 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,13 +22,13 @@
   <component name="ProjectId" id="1a5EgLJVgGaY6qS3usXxTodOcDi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -48,33 +47,52 @@
       <workItem from="1586154641318" duration="7000" />
       <workItem from="1586159127515" duration="4591000" />
       <workItem from="1586163823670" duration="10000" />
-      <workItem from="1586764867540" duration="4305000" />
+      <workItem from="1586764867540" duration="4438000" />
+      <workItem from="1586842412287" duration="47000" />
+      <workItem from="1586929711696" duration="594000" />
+      <workItem from="1587820459512" duration="6058000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="768" y="271" width="441" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1586765951180">
+    <state x="709" y="357" width="559" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586929757692">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
+    <state x="709" y="357" width="559" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053/1920.142.1440.900@67.27.1853.1053" timestamp="1586929757692" />
+    <state x="1136" y="271" width="412" height="638" key="#com.intellij.ide.util.MemberChooser" timestamp="1587821498626">
+      <screen x="67" y="27" width="3293" height="1053" />
+    </state>
     <state x="768" y="271" width="441" height="562" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1586765951180" />
+    <state x="1136" y="271" width="412" height="638" key="#com.intellij.ide.util.MemberChooser/67.27.3293.1053@67.27.3293.1053" timestamp="1587821498626" />
     <state x="676" y="289" width="624" height="526" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586151110215">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="676" y="289" width="624" height="526" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1586151110215" />
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586163829813">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586930303578">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1586163829813" />
-    <state x="752" y="366" width="473" height="373" key="NewPhpClassDialog" timestamp="1586103319634">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1586842456899" />
+    <state x="776" y="310" key="FileChooserDialogImpl/67.27.1853.1053/1920.142.1440.900@67.27.1853.1053" timestamp="1586930303578" />
+    <state x="1079" y="366" width="841" height="505" key="NewPhpClassDialog" timestamp="1587822646198">
+      <screen x="67" y="27" width="3293" height="1053" />
     </state>
     <state x="752" y="366" width="473" height="373" key="NewPhpClassDialog/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1586103319634" />
-    <state x="657" y="253" width="672" height="677" key="run.anything.popup" timestamp="1586019027073">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="1079" y="366" width="841" height="505" key="NewPhpClassDialog/67.27.3293.1053@67.27.3293.1053" timestamp="1587822646198" />
+    <state x="789" y="478" width="399" height="149" key="NewPhpFileDialog" timestamp="1587820571969">
+      <screen x="67" y="27" width="3293" height="1053" />
+    </state>
+    <state x="789" y="478" width="399" height="149" key="NewPhpFileDialog/67.27.3293.1053@67.27.3293.1053" timestamp="1587820571969" />
+    <state x="772" y="325" width="432" height="455" key="refactoring.ChangeSignatureDialog" timestamp="1587823481046">
+      <screen x="67" y="27" width="3293" height="1053" />
+    </state>
+    <state x="772" y="325" width="432" height="455" key="refactoring.ChangeSignatureDialog/67.27.3293.1053@67.27.3293.1053" timestamp="1587823481046" />
+    <state x="1115" y="253" width="1195" height="677" key="run.anything.popup" timestamp="1587824730371">
+      <screen x="67" y="27" width="3293" height="1053" />
     </state>
     <state x="657" y="253" width="672" height="677" key="run.anything.popup/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1586019027073" />
+    <state x="1115" y="253" width="1195" height="677" key="run.anything.popup/67.27.3293.1053@67.27.3293.1053" timestamp="1587824730371" />
   </component>
 </project>
